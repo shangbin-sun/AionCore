@@ -1,0 +1,3 @@
+[submodule "ai-team"]
+	path = ai-team
+	url = git@github.com:shangbin-sun/AionAiTeam.git
